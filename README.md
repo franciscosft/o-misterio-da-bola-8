@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Mistério da bola oito 🎱
 
 Aplicativo para por em prática os conceitos desenvolvidos em [github.com/franciscosft/tem-dado-em-casa](https://github.com/franciscosft/tem-dado-em-casa)
